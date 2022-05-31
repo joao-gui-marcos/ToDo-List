@@ -1,21 +1,12 @@
 # Boas-vindas ao repositório do projeto Lista de Tarefas!
 
-</br>
-
-# Entregáveis
-
-<details>
-  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
+## 👨‍💻 O que foi desenvolvido:
 
   Uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
 
 :bulb: **Veja uma amostra a seguir**
 
-  ![exemplo de uma todo list](./todo-list-example.gif)
-
-</details>
-
-</br>
+  ![exemplo de uma todo list](./sample.gif)
 
 # Requisitos Obrigatórios
 
