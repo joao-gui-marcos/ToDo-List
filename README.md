@@ -2,7 +2,7 @@
 
 ## 👨‍💻 O que foi desenvolvido:
 
-  Uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
+  - Uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
 
 :bulb: **Veja uma amostra a seguir**
 
