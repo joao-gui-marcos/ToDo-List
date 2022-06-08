@@ -10,7 +10,7 @@
 
   - Uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
 
-:bulb: **Veja uma amostra a seguir**
+:bulb: **Veja uma amostra a seguir:**
 
   ![exemplo de uma todo list](./sample.gif)
 
