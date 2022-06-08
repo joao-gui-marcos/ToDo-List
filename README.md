@@ -1,5 +1,11 @@
 # Boas-vindas ao repositório do projeto Lista de Tarefas!
 
+### README Translations:
+* [English](/README.en.md)
+* [Portuguese](/README.md)
+
+---
+
 ## 👨‍💻 O que foi desenvolvido:
 
   - Uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
