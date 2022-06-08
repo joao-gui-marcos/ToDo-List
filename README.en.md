@@ -1,10 +1,17 @@
 # Welcome to the Task List project repository!
 
+### README Translations:
+
+-   [English](/README.en.md)
+-   [Portuguese](/README.md)
+
+* * *
+
 ## 👨‍💻 What was developed:
 
 -   A to-do list using`HTML`,`CSS`e`JavaScript`.
 
-:bulb:**See a sample below**
+:bulb:**See a sample below:**
 
 ![exemplo de uma todo list](./sample.gif)
 
@@ -59,7 +66,7 @@
 
 -   There is an element of type`button`;
 -   your id is`criar-tarefa`;
--   when typing text`minha primeira tarefa`and click the button`criar-tarefa`, the text entered appears in the list and**disappears from input field**;
+-   when typing text`minha primeira tarefa`and click the button`criar-tarefa`, the typed text appears in the list and**disappears from input field**;
 -   Adding elements to the list will be done a few times, and it will be checked that all created items remain in the list as new ones are added.
 
 </details>
@@ -104,7 +111,7 @@
 
 -   Before the action is fired, the element added to the list doesn't even have the class`completed`nor the style`text-decoration: line-through solid black`;
 
--   By double-clicking on the item in the list, it has the class`completed`and the style`text-decoration`with the value`line-through solid black`;
+-   By double clicking on the item in the list, it has the class`completed`and the style`text-decoration`with the value`line-through solid black`;
 
 -   It will be verified that, with a second double click, a complete element is no longer complete.
 
@@ -186,7 +193,7 @@ What does it mean to move an item in a list up or down in the**_DOM_**? :thinkin
 
 **What will be checked:**
 
--   Check for the presence of an element`button`with an id`remover-selecionado`;
+-   Check for the presence of an element`button` com um id `remover-selecionado`;
 
 -   It will be verified that, on clicking the button, only the selected element is removed.
 
